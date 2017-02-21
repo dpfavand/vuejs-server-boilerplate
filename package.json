@@ -1,5 +1,5 @@
 {
-  "name": "twitter-postcards",
+  "name": "vuejs-server-boilerplate",
   "version": "0.1.0",
   "description": "Send postcards of your favourite tweets",
   "main": "server.js",
