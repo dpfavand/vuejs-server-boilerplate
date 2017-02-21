@@ -1,3 +1,5 @@
+# Overview
+This repo is a starting point for building a vuejs frontend and node backend in the same repository. This allows the convenience of packaging up the whole repository for deployment to an AWS EC2 or Elastic Beanstalk. Probably not great for bigger projects where you really need to keep the backend and frontend separate, but so far works well enough for smaller projects
 # Build
 All scripts are defined in package.json. No gulp.
 ## Production
